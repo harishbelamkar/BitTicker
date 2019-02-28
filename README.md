@@ -12,6 +12,9 @@
  1. Open project in xcode.
  2. Press on run button.
 
+# UI Creation
+ 1. I used storyboard and autoLayout
+
 # What's Included
 
 * Created Login Screen.
@@ -35,6 +38,7 @@
 * Know Issues
  1. If you enter alpabet in input text app crash - (I can use number keyboard type to avoid crash)
  2. No Email Validation - (I can use this by using regEx)
+ 3. Few components not used auto layout.
 
 
 
