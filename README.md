@@ -32,7 +32,10 @@
  2. Enter input number based on this values last trade value red / green color will change even Up arrow and down arrow.
  
 
- 
+* Know Issues
+ 1. If you enter alpabet in input text app crash - (I can use number keyboard type to avoid crash)
+ 2. No Email Validation - (I can use this by using regEx)
+
 
 
 
