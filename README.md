@@ -9,7 +9,7 @@
 
  
 # What's Included
-* [Created Login Screen]
+* Created Login Screen
 
 
 
