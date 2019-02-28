@@ -29,7 +29,7 @@
  
 * Created 2 Ticker Screens
  1. Fetching service to show ticker data using webSocket API
- 2. Enter input number based on this values last trade value color will change.
+ 2. Enter input number based on this values last trade value red / green color will change even Up arrow and down arrow.
  
 
  
